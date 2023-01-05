@@ -11,3 +11,6 @@ a:hover {
   text-decoration: underline;
   font-size: larger;
 }
+.about-link {
+  margin-bottom: 20px;
+}

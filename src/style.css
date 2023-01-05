@@ -1,11 +1,13 @@
 body {
   text-align: center;
-  background-color: lavender;
+  background-color: goldenrod;
 }
 a {
   text-decoration: none;
   color: teal;
+  font-weight: bold;
 }
 a:hover {
   text-decoration: underline;
+  font-size: larger;
 }

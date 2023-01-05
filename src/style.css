@@ -1,8 +1,17 @@
 body {
-  text-align: center;
   background-color: rgb(218, 165, 32, 0.6);
 }
+h1,
+p {
+  text-align: center;
+}
+h2,
+h3 {
+  text-align: left;
+}
 a {
+  display: block;
+  text-align: center;
   text-decoration: none;
   color: teal;
   font-weight: bold;
